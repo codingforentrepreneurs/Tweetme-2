@@ -1,3 +1,6 @@
+# local project items
+parse.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
