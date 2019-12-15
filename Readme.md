@@ -36,3 +36,7 @@ _Lessons 1-5: no significant code added_
 
 [20 - Like Button Rendering](../../tree/8124fe9de95400a65652d14a9c39def1dd9f2bdf/)
 
+[21 - Rapid Implement of Bootstrap Theme](../../tree/7335b554e18a1d1c0999447410dffcc6a92e2266/)
+
+[22 - Tweet Create Form](../../tree/4a56201848d5475b0ec8d4c59b22e307592eccae/)
+
