@@ -8,7 +8,19 @@ this is amazing!!!!
 {% block content %}
 Welcome to Tweetme 2
 
+<div id='tweets'>
+    Replace me
+</div>
+
 <script>
+const tweetsElement = document.getElementById("tweets") // get an html element
+tweetsElement.innerHTML = 'Loading...' // set new html in that element
+
+var el1 = "<h1>Hi there 1</h1>"
+var el2 = "<h1>Hi there 2</h1>"
+var el3 = "<h1>Hi there 3</h1>"
+tweetsElement.innerHTML = el1 + el2 + el3
+
 const xhr = new XMLHttpRequest()
 const method = 'GET' // "POST"
 const url = "/tweets"
