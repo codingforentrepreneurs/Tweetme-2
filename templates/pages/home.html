@@ -25,8 +25,22 @@ const method = 'GET' // "POST"
 const url = "/tweets"
 const responseType = "json"
 
+
+function handleDidLike (tweet_id, currentCount) {
+    console.log(tweet_id, currentCount)
+    return 
+}
+
+function LikeBtn(tweet) {
+    return "<button class='btn btn-primary btn-sm' onclick=handleDidLike(" + 
+    tweet.id + "," + tweet.likes + ")>" + tweet.likes + " Likes</button>"
+}
+
 function formatTweetElement(tweet) {
-    var formattedTweet = "<div class='mb-4 tweet' id='tweet-" + tweet.id + "'><p>" + tweet.content + "</p></div>"
+    var formattedTweet = "<div class='mb-4 tweet' id='tweet-" + tweet.id 
+    + "'><p>" + tweet.content + 
+        "</p><div class='btn-group'>" + LikeBtn(tweet) +
+        "</div></div>"
     return formattedTweet
 }
 xhr.responseType = responseType
