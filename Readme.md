@@ -56,3 +56,11 @@ _Lessons 1-5: no significant code added_
 
 [30 - Append New Tweet & Reorder](../../tree/c088d8b548a7c981f32a0cfd7151cff4a11fd528/)
 
+[31 - Handling Form Errors](../../tree/4b764cbc57f533e25b5fa973342da550a1e3ab91/)
+
+[32 - Rendering the Error Message via Vanilla JavaScript](../../tree/493d324165b47bc7b965916ab3233dc674991aee/)
+
+[33 - Users & Tweets](../../tree/bca1089afdd332ec077c896069af032d86957ab0/)
+
+[34 - Django Admin](../../tree/e4f6e285b029722925df1d58265a127d10224214/)
+
