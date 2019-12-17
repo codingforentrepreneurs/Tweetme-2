@@ -16,9 +16,12 @@ class TweetActionSerializer(serializers.Serializer):
         return value
 
 class TweetSerializer(serializers.ModelSerializer):
+    likes = serializers.SerializerMethodField(read_only=True)
     class Meta:
         model = Tweet
-        fields = ['id', 'content']
+        fields = ['id', 'content', 'likes']
+    def get_likes(self, obj):
+        return obj.likes.count()
     
     def validate_content(self, value):
         if len(value) > MAX_TWEET_LENGTH:
