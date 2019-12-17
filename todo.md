@@ -1,8 +1,8 @@
 1. Tweets
-    -> Creating
-        -> Text
-        -> Image -> Media Storage Server
     -> User Permissions
+        -> Creating
+            -> Text
+            -> Image -> Media Storage Server
         -> Delete
         -> Retweeting
         -> Liking
