@@ -74,3 +74,7 @@ _Lessons 1-5: no significant code added_
 
 [39 - Django Views to Django Rest Framework Views](../../tree/c1fdd108faf2e8494c3f9125334dbfb3ea0479d2/)
 
+[40 - Permissions and Authentication Classes Decorators for DRF APIs](../../tree/62b13fef8bc0360c16180bc0a2ba91e26b91756d/)
+
+[41 - Delete Tweet API View](../../tree/fd97a4487f54ecc2f204f99fd08053f4133374a0/)
+
