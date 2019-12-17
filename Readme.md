@@ -64,3 +64,13 @@ _Lessons 1-5: no significant code added_
 
 [34 - Django Admin](../../tree/e4f6e285b029722925df1d58265a127d10224214/)
 
+[35 - Associate Authenticated User to Object](../../tree/b553fc641b4e40722aa632caa4aa5bad7e63879f/)
+
+[36 - Permissions & Roadmap](../../tree/c5e98a47214dc439290c32c8eb5315855cacb7bf/)
+
+[37 - Install Django Rest Framework](../../tree/f0b6d26180c5a8c86e2e30df7a2c0f3a585c4472/)
+
+[38 - Django Forms to Django Rest Framework Serializer](../../tree/773bd786a3bf114104e14b9cde54c4a5a1bf1cdf/)
+
+[39 - Django Views to Django Rest Framework Views](../../tree/c1fdd108faf2e8494c3f9125334dbfb3ea0479d2/)
+
