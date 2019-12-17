@@ -78,3 +78,13 @@ _Lessons 1-5: no significant code added_
 
 [41 - Delete Tweet API View](../../tree/fd97a4487f54ecc2f204f99fd08053f4133374a0/)
 
+[42 - Adding a Like Field](../../tree/0e72e11fdc4b9237465df622f8f4d6e2266e761b/)
+
+[43 - Understanding Setting ManyToMayFields](../../tree/d7dcc835547cd7946913fcd702e1cfdbb81c5b43/)
+
+[44 - Tweet Action View](../../tree/a801e54e56ec89c78be3fd675e1391d322fdc37d/)
+
+[45 - JavaScript Tweet Action Handler](../../tree/df5d9f6c4521ea0b3bab964d0ffb8ad93aa44b08/)
+
+[46 - CSRF & Client Side Action Buttons](../../tree/2902c65cb2072dbd66dce4ce89b56f1997127d7b/)
+
