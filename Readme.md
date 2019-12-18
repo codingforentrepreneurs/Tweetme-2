@@ -88,3 +88,11 @@ _Lessons 1-5: no significant code added_
 
 [46 - CSRF & Client Side Action Buttons](../../tree/2902c65cb2072dbd66dce4ce89b56f1997127d7b/)
 
+[47 - Retweeting Logic](../../tree/8ad028e5aec09bfc74d5309d943f2cb2bc8fd7f3/)
+
+[48 - Two Types of Serializers](../../tree/5ae049e476bbcc12ed711bd508bdd1db35385a58/)
+
+[49 - Internal App Urls](../../tree/94d7f9c9e4304a32da36213ddfec00390f8a10eb/)
+
+[50 - Setting up Tests in Django](../../tree/863f1e597a9f2b9a6eab386cc55def479a9cc521/)
+
