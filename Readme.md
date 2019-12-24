@@ -116,3 +116,11 @@ _51 - Verify or Install Nodejs- no code_
 
 [61 - Handling a Form in React](../../tree/49553ed3e14b60ffa9453a545293812e85b64e9a/)
 
+[62 - Pass from Parent Component to Child with useEffect](../../tree/7a6310b5c82a3651b86450725c9b9502999f9ef6/)
+
+[63 - Adjust the React Render Process](../../tree/168382442ca1efeb90067c9c2ebd92a90027bb90/)
+
+[64 - React Rendered by Django](../../tree/7f33ea9f9eab6c07345db535ff02d81b9c471871/)
+
+[65 - Render React App via Any Django Template](../../tree/2763cd207d10ba25737bc9c5fd45f2a76b332e4e/)
+
