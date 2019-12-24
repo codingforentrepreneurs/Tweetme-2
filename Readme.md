@@ -96,3 +96,23 @@ _Lessons 1-5: no significant code added_
 
 [50 - Setting up Tests in Django](../../tree/863f1e597a9f2b9a6eab386cc55def479a9cc521/)
 
+_51 - Verify or Install Nodejs- no code_
+
+[52 - Create React App](../../tree/64af9c04b3138b8a65c059d2c448306dcfdb4f14/)
+
+[54 - Ajax lookup via XHR in Reactjs](../../tree/a324816b849c8488a5f442c213b43e988c267bcc/)
+
+[55 - Handling CORS and Invalid HOST_HEADER in Django](../../tree/28584e8be0455a8e6bb36a8236046843add92479/)
+
+[56 - Functional Components in React](../../tree/56e80ff0608360bf1083d39aab9d82e4a051a83f/)
+
+[57 - Reactjs Action Btn](../../tree/3d5c281e3b03bd99763efa137a74585438b3aaaf/)
+
+[58 - Using JavaScript Modules](../../tree/bc892166397e5bc09a575c721c23d4fad3882469/)
+
+[59 - Improved Action Btn](../../tree/17406366b1a5b1d360e25603868ee7b60920553d/)
+
+[60 - Understanding setState Hook](../../tree/3bc00466c918241db25420d3c222e4bf693ac185/)
+
+[61 - Handling a Form in React](../../tree/49553ed3e14b60ffa9453a545293812e85b64e9a/)
+
