@@ -136,3 +136,9 @@ _51 - Verify or Install Nodejs- no code_
 
 [71 - Tweet Action Btn](../../tree/8cab91c9fc6e678aa04cf3141110ebf56a7d913e/)
 
+[72 - Rendering the ReTweet](../../tree/987ded4a6a4e1a1f4ab47e38d085e9ce325571c2/)
+
+[73 - Improving the Tweet Action Button](../../tree/8f89a740e4db66cbd82879b26f08a6600318cb5a/)
+
+[74 - Prepending Dynamic Retweets](../../tree/3fd141a06ebcdc9b27bd1ad779b1942771a04588/)
+
