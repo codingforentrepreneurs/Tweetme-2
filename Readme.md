@@ -124,3 +124,15 @@ _51 - Verify or Install Nodejs- no code_
 
 [65 - Render React App via Any Django Template](../../tree/2763cd207d10ba25737bc9c5fd45f2a76b332e4e/)
 
+[66 - A Better XHR Lookup](../../tree/6dfdf9913f7389235bc0ca81c0deec6f90c76f04/)
+
+[67 - Create Tweet in React](../../tree/864b60b7ca7d7de211d6efd1de631146d068a010/)
+
+[68 - Dev Authentication](../../tree/944cbcb5ad4c535eacf51aa6645f816e72f30edc/)
+
+[69 - Handling New Tweet](../../tree/cd3a15c77d4343a11f65485132e88951929af393/)
+
+[70 - API Methods in React](../../tree/5133bd4a589f180e3332a02de3a435b2418b4f0d/)
+
+[71 - Tweet Action Btn](../../tree/8cab91c9fc6e678aa04cf3141110ebf56a7d913e/)
+

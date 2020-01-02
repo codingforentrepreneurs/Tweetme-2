@@ -88,7 +88,7 @@ export function ActionBtn(props) {
     const handleClick = (event) => {
       event.preventDefault()
       apiTweetAction(tweet.id, action.type, handleActionBackendEvent)
-      
+        
     }
     const display = action.type === 'like' ? `${likes} ${actionDisplay}` : actionDisplay
     return <button className={className} onClick={handleClick}>{display}</button>
