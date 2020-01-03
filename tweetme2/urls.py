@@ -20,17 +20,17 @@ from django.urls import path, re_path, include # url()
 from django.views.generic import TemplateView
 
 from tweets.views import (
-    local_tweets_list_view,
-    local_tweets_detail_view,
-    local_tweets_profile_view,
+    tweets_list_view,
+    tweets_detail_view,
+    tweets_profile_view,
 )
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', local_tweets_list_view),
-    path('<int:tweet_id>', local_tweets_detail_view),
-    path('profile/<str:username>', local_tweets_profile_view),
-    path('api/tweets/', include('tweets.urls'))
+    path('', tweets_list_view),
+    path('<int:tweet_id>', tweets_detail_view),
+    path('profile/<str:username>', tweets_profile_view),
+    path('api/tweets/', include('tweets.api.urls'))
 ]
 
 if settings.DEBUG:
