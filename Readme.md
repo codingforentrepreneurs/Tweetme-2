@@ -142,3 +142,21 @@ _51 - Verify or Install Nodejs- no code_
 
 [74 - Prepending Dynamic Retweets](../../tree/3fd141a06ebcdc9b27bd1ad779b1942771a04588/)
 
+[75 - Set Data Props on ReactDOM Render](../../tree/82eb8cf2e88e5a1aa99947103a5a10f666a36c2e/)
+
+[76 - Limit List View by Username](../../tree/c5306bb9cacac68268a1ac5bd4eb28f5610e2767/)
+
+[77 - Rendering Limited Tweet List by Username](../../tree/5c7b86ad592bff6106826f4bfeb4f9120f5b63ca/)
+
+[78 - Tweets Module Clean Up](../../tree/33af1a02d078540a14a74384b347313de2333f24/)
+
+[79 - Lookup & Render & Embed Individual Tweets](../../tree/eb194546aa4202e6f1fbb46a69fecdc9e30e1311/)
+
+[80 - Linking Individual Tweets](../../tree/55d983e16241705e01128164d351249cfb4267c8/)
+
+[81 - Build and Use On Django](../../tree/9b524ac3a9e42139666fe10fb548833df8e5be5c/)
+
+[82 - Clean Up API Urls and Views](../../tree/ac6fa11b6084f5e82fe8c7675f1858ab2e3fcb6e/)
+
+[83 - Login Required Redirect](../../tree/e4761aa629c02c665be78b6f82c9fb26a4219d7a/)
+
