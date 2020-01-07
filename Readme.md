@@ -160,3 +160,13 @@ _51 - Verify or Install Nodejs- no code_
 
 [83 - Login Required Redirect](../../tree/e4761aa629c02c665be78b6f82c9fb26a4219d7a/)
 
+[84 - Authentication & Registration](../../tree/b2b410fd524924eb73b8491a4785a5fdfc8f281f/)
+
+[85 - User Profiles](../../tree/889c7cbf37b43a1320c6231186ab412225a46f7c/)
+
+[86 - Handling Profile Does Not Exist](../../tree/061c715c81acbfc705c50a09c9fd7860353d335e/)
+
+[87 - Signals to Create Profile Objects](../../tree/b331593f11aa5d792f5cc1a4916bb829a12196b4/)
+
+[88 - Save 2 Models in 1 Form and 1 View](../../tree/4a46592de493f19f0e2d1a8cb12ff154a028d805/)
+
