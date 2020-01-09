@@ -178,3 +178,7 @@ _51 - Verify or Install Nodejs- no code_
 
 [92 - Profile Following Unit Tests](../../tree/eec3476bd41768d4899125b17ebd5a8d144e2c55/)
 
+[93 - User Feed including Following](../../tree/2b76f4e9834dcd21474b286bdec4248343ecc306/)
+
+[94 - More Effecient Backend Lookups and Custom Model Managers](../../tree/0b1f4b907bad5d4bdfb525804edefeeb626bf79b/)
+
