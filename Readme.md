@@ -182,3 +182,7 @@ _51 - Verify or Install Nodejs- no code_
 
 [94 - More Effecient Backend Lookups and Custom Model Managers](../../tree/0b1f4b907bad5d4bdfb525804edefeeb626bf79b/)
 
+[95 - More Efficient List Views with Pagination](../../tree/7c89ad7c014a7b431dba55b8986f7cc71d0c8439/)
+
+[96 - User Profile Serializer](../../tree/d7fd9517d591f91082374ead775991e94ec4b290/)
+
