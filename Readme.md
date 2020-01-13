@@ -186,3 +186,6 @@ _51 - Verify or Install Nodejs- no code_
 
 [96 - User Profile Serializer](../../tree/d7fd9517d591f91082374ead775991e94ec4b290/)
 
+[97 - Handling our New List View Response](../../tree/2a6f0106c1877df5d39512aa161889e17b9a502b/)
+
+[98 - Handling Pagination in React](../../tree/0c39d7474d64966682bb642dce2befd56de17dd6/)
