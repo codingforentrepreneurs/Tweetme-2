@@ -192,7 +192,7 @@ _51 - Verify or Install Nodejs- no code_
 
 [99 - Display User Within Tweet](../../tree/877884675610faee2335df06c4c1cb67df5644e7/)
 
-[100 Display Tweet User Details](../../tree/161ff2d8a7236c20d8b9addbcc578150de09651b/)
+[100 - Display Tweet User Details](../../tree/161ff2d8a7236c20d8b9addbcc578150de09651b/)
 
 [101 - Feed View Component](../../tree/f5e1eb899c6bd2d4f7d89b12f3d741e2e57777ed/)
 
