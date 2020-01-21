@@ -206,3 +206,18 @@ _51 - Verify or Install Nodejs- no code_
 
 [106 - The Follow Button](../../tree/214190819624697713aab6cc9b5da3fc70e2e8b3/)
 
+[107 - Removing Redundant Profile View](../../tree/5ebfac71d174b4869c367c79095df554fa0ec97a/)
+
+[108 - Display Follower Count with Numeraljs](../../tree/62f930450531e07039a650401cbb3aac852bdc37/)
+
+[109 - FInal Build](../../tree/7ce03e49253bed9e4a55f5ab985f92b047fa736c/)
+
+**110 - Thank you and next steps** _no code_
+
+Next steps:
+- Large File Uploads for Images ~ [Dive into AWS](https://cfe.sh/courses/aws)
+- Notifications
+- Direct Messages / Private Inboxes ~ [Chat x Channels](https://cfe.sh/courses/chat-channels-react)
+- Explore -> parse & filter for hashtags
+
+

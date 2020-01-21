@@ -24,7 +24,8 @@
 3. Following / Followers
 
 
-Long term todos
+Next Steps:
+- Large File Uploads for Images ~ Dive into AWS
 - Notifications
-- DM
-- Explore -> finding hashtags
+- Direct Messages / Private Inboxes ~ Chat x Channels
+- Explore -> parse & filter for hashtags
