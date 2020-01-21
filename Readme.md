@@ -196,3 +196,13 @@ _51 - Verify or Install Nodejs- no code_
 
 [101 - Feed View Component](../../tree/f5e1eb899c6bd2d4f7d89b12f3d741e2e57777ed/)
 
+[102 - Build for the Feed](../../tree/116a480560e10021bb33299c4e0fcdcc4d560752/)
+
+[103 - User Profile API Detail](../../tree/72db184c5a6b9338eecba1c2df630812fa269faa/)
+
+[104 - Passing the Request to Serializers](../../tree/aa9379e967c4d8feae5e577df743327a707456a5/)
+
+[105 - Render Profile Badge Component](../../tree/cbc23c43d7eeec86c5bd0c0e0242f824bdc95b1f/)
+
+[106 - The Follow Button](../../tree/214190819624697713aab6cc9b5da3fc70e2e8b3/)
+
