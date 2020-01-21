@@ -4,6 +4,14 @@ object-assign
 @license MIT
 */
 
+/*! @preserve
+ * numeral.js
+ * version : 2.0.6
+ * author : Adam Draper
+ * license : MIT
+ * http://adamwdraper.github.com/Numeral-js/
+ */
+
 /** @license React v16.12.0
  * react.production.min.js
  *
