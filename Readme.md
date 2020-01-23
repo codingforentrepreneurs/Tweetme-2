@@ -1,8 +1,6 @@
 # Tweetme 2
 Build a twitter-like app in Django, Bootstrap, Javascript, & React.js. Step-by-Step.
 
-> **This project is Coming Soon.**
-
 ### Lesson Code
 _Lessons 1-5: no significant code added_
 
